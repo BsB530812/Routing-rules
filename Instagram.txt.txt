@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN,graph.instagram.com
+DOMAIN,i.instagram.com
+DOMAIN,gateway.instagram.com
+DOMAIN,instagram.fkhh1-2.fna.fbcdn.net
+DOMAIN,instagram.fkhh1-1.fna.fbcdn.net
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,instagram.com
