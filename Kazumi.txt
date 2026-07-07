@@ -1,0 +1,6 @@
+DOMAIN,mapi.hotmangasd.com,DIRECT
+DOMAIN,mapi.hotmangasf.com,DIRECT
+DOMAIN,mapi.hotmangasg.com,HK
+DOMAIN-KEYWORD,elfgjfghkk,DIRECT
+DOMAIN-KEYWORD,kazumi,DIRECT
+DOMAIN-KEYWORD,wsrv,DIRECT
