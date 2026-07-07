@@ -1,0 +1,32 @@
+#!name = GitHub 加速
+#!desc = 为 raw.githubusercontent.com 及 GitHub 静态资源固定 Fastly 任播 IP 并走直连，绕开 DNS 污染，加速 Raw 访问
+#!author = xixi
+
+[Host]
+# ===== Fastly CDN 承载的 Raw / 静态资源 =====
+# 185.199.108-111.133 是 anycast(任播) IP，全球同一 IP 自动路由到最近节点，可放心硬编码
+raw.githubusercontent.com         = 185.199.108.133
+gist.githubusercontent.com        = 185.199.108.133
+user-images.githubusercontent.com = 185.199.108.133
+objects.githubusercontent.com     = 185.199.108.133
+camo.githubusercontent.com        = 185.199.108.133
+avatars.githubusercontent.com     = 185.199.108.133
+avatars0.githubusercontent.com    = 185.199.108.133
+avatars1.githubusercontent.com    = 185.199.108.133
+avatars2.githubusercontent.com    = 185.199.108.133
+github.githubassets.com           = 185.199.108.154
+github.io                         = 185.199.108.153
+
+# ===== github.com / API / clone 为单播 IP，地区差异大 =====
+# 不硬编码（易过期），改用干净 DoH 解析，拿到未被污染的真实 IP
+github.com          = server:https://cloudflare-dns.com/dns-query
+api.github.com      = server:https://cloudflare-dns.com/dns-query
+codeload.github.com = server:https://cloudflare-dns.com/dns-query
+
+[Rule]
+# 关键：Host 
+DOMAIN-SUFFIX,githubusercontent.com,Available
+DOMAIN,github.githubassets.com,Available
+DOMAIN,github.com,Available
+DOMAIN,api.github.com,Available
+DOMAIN,codeload.github.com,Available
