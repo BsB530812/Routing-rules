@@ -1,4 +1,4 @@
-#!name = GitHub 加速
+#!name = GitHub
 #!desc = 为 raw.githubusercontent.com 及 GitHub 静态资源固定 Fastly 任播 IP 并走直连，绕开 DNS 污染，加速 Raw 访问
 #!author = xixi
 
