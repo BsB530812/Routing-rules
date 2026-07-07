@@ -5,3 +5,6 @@ DOMAIN-KEYWORD,jmt612.qozzh.com
 DOMAIN-KEYWORD,mqxpysjp13.scbixiakj.com
 DOMAIN-KEYWORD,one-api.zzxu.de
 DOMAIN-KEYWORD,ysp612.rjpdf.com
+DOMAIN-KEYWORD,dlmk
+DOMAIN,dlmk0129.scycjz.com
+DOMAIN-KEYWORD,enimg
