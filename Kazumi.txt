@@ -1,5 +1,4 @@
 
-DOMAIN,mapi.hotmangasf.com
 DOMAIN-KEYWORD,elfgjfghkk
 DOMAIN-KEYWORD,kazumi
 DOMAIN-KEYWORD,wsrv
