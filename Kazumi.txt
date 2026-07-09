@@ -6,3 +6,4 @@ DOMAIN-KEYWORD,wsrv
 DOMAIN-KEYWORD,enlienli
 DOMAIN-KEYWORD,agedm
 DOMAIN-KEYWORD,dmbus
+DOMAIN,1000kc.sujqstv.com
