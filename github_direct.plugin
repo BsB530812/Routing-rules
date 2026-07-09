@@ -25,8 +25,8 @@ codeload.github.com = server:https://cloudflare-dns.com/dns-query
 
 [Rule]
 # 关键：Host 
-DOMAIN-SUFFIX,githubusercontent.com,Available
-DOMAIN,github.githubassets.com,Available
-DOMAIN,github.com,Available
-DOMAIN,api.github.com,Available
-DOMAIN,codeload.github.com,Available
+DOMAIN-SUFFIX,githubusercontent.com,US
+DOMAIN,github.githubassets.com,US
+DOMAIN,github.com,US
+DOMAIN,api.github.com,US
+DOMAIN,codeload.github.com,US
