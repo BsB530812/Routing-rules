@@ -1,4 +1,4 @@
-DOMAIN,mapi.hotmangasd.com
+
 DOMAIN,mapi.hotmangasf.com
 DOMAIN-KEYWORD,elfgjfghkk
 DOMAIN-KEYWORD,kazumi
@@ -9,3 +9,6 @@ DOMAIN-KEYWORD,dmbus
 DOMAIN-KEYWORD,sujqstv
 DOMAIN-KEYWORD,yjryamo
 DOMAIN-KEYWORD,mangafunb
+DOMAIN-KEYWORD,rmkgmub,DIRECT
+DOMAIN-KEYWORD,ngdxrvc,DIRECT
+DOMAIN-KEYWORD,otuplzj,DIRECT
