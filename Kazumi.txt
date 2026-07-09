@@ -11,3 +11,4 @@ DOMAIN-KEYWORD,mangafunb
 DOMAIN-KEYWORD,rmkgmub
 DOMAIN-KEYWORD,ngdxrvc
 DOMAIN-KEYWORD,otuplzj
+DOMAIN,cdn.gh-proxy.org
