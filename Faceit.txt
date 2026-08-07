@@ -1,4 +1,4 @@
-cdn.faceit.com:443
-edge.faceit.com:443
-api.faceit.com:443
-www.faceit.com:443
+cdn.faceit.com:443,DOMAIN
+edge.faceit.com:443,DOMAIN
+api.faceit.com:443,DOMAIN
+www.faceit.com:443,DOMAIN
