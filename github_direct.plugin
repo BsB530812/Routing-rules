@@ -19,9 +19,9 @@ github.io                         = 185.199.108.153
 
 # ===== github.com / API / clone 为单播 IP，地区差异大 =====
 # 不硬编码（易过期），改用干净 DoH 解析，拿到未被污染的真实 IP
-github.com          = server:https://cloudflare-dns.com/dns-query
-api.github.com      = server:https://cloudflare-dns.com/dns-query
-codeload.github.com = server:https://cloudflare-dns.com/dns-query
+github.com          = server:https://dns.google/dns-query
+api.github.com      = server:https://dns.google/dns-query
+codeload.github.com = server:https://dns.google/dns-query
 
 [Rule]
 # 关键：Host 
