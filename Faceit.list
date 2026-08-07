@@ -1,4 +1,4 @@
-cdn.faceit.com,DOMAIN
-edge.faceit.com,DOMAIN
-api.faceit.com,DOMAIN
-www.faceit.com,DOMAIN
+DOMAIN,cdn.faceit.com
+DOMAIN,edge.faceit.com
+DOMAIN,api.faceit.com
+DOMAIN,www.faceit.com
