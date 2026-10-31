@@ -25,8 +25,8 @@ codeload.github.com = server:https://dns.google/dns-query
 
 [Rule]
 # 关键：Host 
-DOMAIN-SUFFIX,githubusercontent.com,JP
-DOMAIN,github.githubassets.com,JP
-DOMAIN,github.com,JP
-DOMAIN,api.github.com,JP
-DOMAIN,codeload.github.com,JP
+DOMAIN-SUFFIX,githubusercontent.com,KR
+DOMAIN,github.githubassets.com,KR
+DOMAIN,github.com,KR
+DOMAIN,api.github.com,KR
+DOMAIN,codeload.github.com,KR
